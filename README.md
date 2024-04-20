@@ -9,7 +9,6 @@
 ⚠️ VEJA A SEGUIR INFORMAÇÕES SOBRE MIM 👇
 
 ![Anurag GitHub stats:](https://github-readme-stats.vercel.app/api?username=Emerson10110&show_icons=true&theme=dark)
-<img align="center" height="30" width="40" src="https://images.app.goo.gl/U3tHicEpQAdsWVFd7">
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Emerson10110)](https://whatsapp.com/channel/0029VaIaixSISTkI6AtJSk3T)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson10110&hide_progress=true)
 
