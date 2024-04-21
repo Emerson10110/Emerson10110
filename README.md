@@ -26,3 +26,6 @@
     <a href="https://github.com/Emerson10110/Emerson10110/stargazers"><img src="https://img.shields.io/github/stars/Emerson10110/Emerson10110.svg?logo=github"></a>
     <a href="https://github.com/Emerson10110/Emerson10110/network/members"><img src="https://img.shields.io/github/forks/Emerson10110/Emerson10110.svg?color=blue&logo=github"></a>
 </p>
+
+<!--   my-skils -->
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px />
