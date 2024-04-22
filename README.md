@@ -1,3 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=600&lines=oi+bem-vindo+👋,+Meu+Nome+é+Emerson+pinho😁;+Esse+é+Meu+perfil+profissional!🧑‍💻;+1+ano+de+experiência+Programando!!🧠;Aqui+Eu+publico+códigos+aberto+💬;entre+em+contato+por+@the.emerson.araujo@gmail.com)](https://git.io/typing-svg)
+
+
+
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/Emerson10110/Emerson10110"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
