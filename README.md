@@ -1,3 +1,6 @@
+<h1>Bem-vindo<a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
+
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=600&lines=oi+bem-vindo+👋,+Meu+Nome+é+Emerson+pinho😁;+Esse+é+Meu+perfil+profissional!🧑‍💻;+1+ano+de+experiência+Programando!!🧠;Aqui+Eu+publico+códigos+aberto+💬;entre+em+contato+por+@the.emerson.araujo@gmail.com)](https://git.io/typing-svg)
 
 
@@ -27,6 +30,8 @@
 
 ![Anurag GitHub stats:](https://github-readme-stats.vercel.app/api?username=Emerson10110&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson10110)](https://github.com/Emerson10110/github-readme-stats)
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=Emerson10110&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+
 
 
 
@@ -38,5 +43,11 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><p align="center">
+<p align="center">
+     <p align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:black&height=100&section=footer"/>
+</p>
+</p>
+
     
 
