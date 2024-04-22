@@ -1,3 +1,13 @@
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/Emerson10110/Emerson10110"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
+    <a href="https://github.com/Emerson10110/Emerson10110/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/Emerson10110/Emerson10110/stargazers"><img src="https://img.shields.io/github/stars/Emerson10110/Emerson10110 svg?logo=github"></a>
+    <a href="https://github.com/Emerson10110/Emerson10110/network/members"><img src="https://img.shields.io/github/forksh/Emerson10110/Emerson10110.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Emerson10110.Emerson10110" alt="visitors"/>   
+</p>
+
 😁👋 Eu sou o Emerson Pinho! 
 
 🧑‍💻👉 sou programador back-end
