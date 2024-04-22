@@ -22,10 +22,10 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><p align="center">
     <a href="https://github.com/Emerson10110/Emerson10110"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/Emerson10110/Emerson10110/graphs/contributors"><img src="https://img.shields.io/github/contributors/Emerson10110/Emerson10110?color=blue"></a>
-    <a href="https://github.com/Emerson10110/Emerson10110/stargazers"><img src="https://img.shields.io/github/stars/Emerson10110/Emerson10110.svg?logo=github"></a>
-    <a href="https://github.com/Emerson10110/Emerson10110/network/members"><img src="https://img.shields.io/github/forks/Emerson10110/Emerson10110.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/Emerson10110/Emerson10110/graphs/contributors"><img src="https://img.shields.io/github/contributors/Emerson10110/Emerson10110?color=blue"></a> <a href="https://github.com/Emerson10110/Emerson10110/stargazers"><img src="https://img.shields.io/github/stars/Emerson10110/Emerson10110.svg?logo=github">
 </p>
+
+
 
 <!--   my-skils -->
 <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px />
