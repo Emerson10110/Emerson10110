@@ -7,6 +7,9 @@
     <a href="https://github.com/Emerson10110/Emerson10110/network/members"><img src="https://img.shields.io/github/forksh/Emerson10110/Emerson10110.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Emerson10110.Emerson10110" alt="visitors"/>   
 </p>
+  
+<!--   my-skils -->
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px />
 
 😁👋 Eu sou o Emerson Pinho! 
 
@@ -31,6 +34,4 @@
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><p align="center">
     
-  
-<!--   my-skils -->
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px />
+
