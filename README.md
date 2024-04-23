@@ -32,7 +32,7 @@
 
 ![Anurag GitHub stats:](https://github-readme-stats.vercel.app/api?username=Emerson10110&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emerson10110)](https://github.com/Emerson10110/github-readme-stats)
-[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=Emerson10110&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![John Mwendwa's current streak](https://streak-stats.demolab.com/?user=Emerson10110&count_private=true&theme=red-green&title_color=00b3ff)](#)
 
 
 
