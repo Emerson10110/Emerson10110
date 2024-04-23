@@ -28,6 +28,8 @@
 
 📧 gmail de contato : the.emerson.araujo@gmail.com 
 
+<img src="Meuhtml_Chrome.png" alt="foto de personagem">
+
 ⚠️ VEJA A SEGUIR INFORMAÇÕES SOBRE MIM 👇
 
 ![Anurag GitHub stats:](https://github-readme-stats.vercel.app/api?username=Emerson10110&show_icons=true&theme=red-green)
