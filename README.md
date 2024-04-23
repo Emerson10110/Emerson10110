@@ -3,7 +3,7 @@
 <h1>Bem-vindo<a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000&center=true&vCenter=true&width=600&lines=oi+bem-vindo+👋,+Meu+Nome+é+Emerson+pinho😁;+Esse+é+Meu+perfil+profissional!🧑‍💻;+1+ano+de+experiência+Programando!!🧠;Aqui+Eu+publico+códigos+aberto+💬;entre+em+contato+por+@the.emerson.araujo@gmail.com)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF5733&center=true&vCenter=true&width=600&lines=oi+bem-vindo+👋,+Meu+Nome+é+Emerson+pinho😁;+Esse+é+Meu+perfil+profissional!🧑‍💻;+1+ano+de+experiência+Programando!!🧠;Aqui+Eu+publico+códigos+aberto+💬;entre+em+contato+por+@the.emerson.araujo@gmail.com)](https://git.io/typing-svg)
 
 
 
