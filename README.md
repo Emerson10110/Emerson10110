@@ -28,7 +28,7 @@
 
 📧 gmail de contato : the.emerson.araujo@gmail.com 
 
-<img align="center" height="140" width="140"  src="gifmaker_me.gif" alt="foto de personagem">
+
 
 ⚠️ VEJA A SEGUIR INFORMAÇÕES SOBRE MIM 👇
 
