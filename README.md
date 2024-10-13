@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient:black&height=120&section=header"/>
-
 <h1>Bem-vindo<a href="#"><a/><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /></h1> 
 
 
@@ -47,11 +45,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg">
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><p align="center">
-<p align="center">
-     <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient:black&height=100&section=footer"/>
-</p>
-</p>
+<p align="center"></p>
 
     
 
